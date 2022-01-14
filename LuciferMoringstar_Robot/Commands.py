@@ -123,17 +123,17 @@ async def start(bot, message):
                             ),
                         InlineKeyboardButton
                             (
-                                "🤖More Botz", url="https://t.me/MT_Botz"
+                                "🤖FILE", url="https://t.me/NETFLIXINDIA2022"
                             )
                     ],
                     [
                         InlineKeyboardButton
                             (
-                                "🤔Help", callback_data="help"
+                                "👊Help", callback_data="help"
                             ),
                         InlineKeyboardButton
                             (
-                                "About🤠", callback_data="about"
+                                "About🌹", callback_data="about"
                             )
                     ]
                 ]
