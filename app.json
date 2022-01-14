@@ -33,7 +33,7 @@
             "description": "Username or ID of channel or group. Separate multiple IDs by space. @MT_ID_Bot",
             "value": ""
         },
-        "ADMINS": {
+        "ADMIN": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
             "value": ""
         },
