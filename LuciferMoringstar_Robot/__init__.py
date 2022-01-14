@@ -27,21 +27,21 @@ HELP = """
 ➥ /logger  Get Logs
 ➥ /delete Delete File From Database
 
-<b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
+<b>[➡️How To Add Old Files For database](https://youtube.com/channel/UCEK86p-F18gR-zd9LwLH4Gw)
 
-@Mo_Tech_YT></b>
+@MAD_YT_001></b>
 """
 
 ABOUT = """
 ➥ Name : Auto Filter With IMDB
     
-➥ Credits : Subin
+➥ Credits : https://t.me/MrMaDYt
 
-➥ Editing : [Muhammed RK](t.me/Mrk_YT)
+➥ Editing : [https://t.me/MrMaDYt)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Source Code : [Click Me](https://github.com/MR-MAD-YT/LuciferMoringstar_Robot)
 """
