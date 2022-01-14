@@ -83,6 +83,8 @@ async def start(bot, message):
                 buttons = [
                     [
                         InlineKeyboardButton(' BOT OWNER', url='https://t.me/HAZARD_77')
+                    ],
+                    [
                         InlineKeyboardButton(' DEVELOPER', url='https://t.me/OGGYMAMAN')
                     ],
                     [
