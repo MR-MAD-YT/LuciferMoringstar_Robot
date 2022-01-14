@@ -83,7 +83,7 @@ async def start(bot, message):
                 buttons = [
                     [
                         InlineKeyboardButton(' BOT OWNER', url='https://t.me/HAZARD_77')
-                        InlineKeyboardButton(' DEVELOPER', url='https://t.me/MrMaDYt')
+                        InlineKeyboardButton(' DEVELOPER', url='')
                     ],
                     [
                         InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat='')
