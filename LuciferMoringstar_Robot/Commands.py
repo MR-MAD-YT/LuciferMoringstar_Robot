@@ -82,7 +82,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton(' BOT OWNER', url='https://t.me/MrMaDYt')
+                        InlineKeyboardButton(' BOT OWNER', url='https://t.me/HAZARD_77')
                         InlineKeyboardButton(' DEVELOPER', url='https://t.me/MrMaDYt')
                     ],
                     [
